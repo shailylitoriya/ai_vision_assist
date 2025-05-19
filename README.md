@@ -42,7 +42,7 @@ streamlit run ai_vision_assist.py
 ---
 
 ## Deployment
-You can deploy this app for free on Streamlit Cloud. Make sure to set your GOOGLE_API_KEY as a secret in the cloud settings.
+Streamlit Cloud does not have Tesseract installed by default. You’ll need to create a custom setup or switch to another deployment method. Make sure to set your GOOGLE_API_KEY as a secret in the cloud settings.
 
 ---
 
